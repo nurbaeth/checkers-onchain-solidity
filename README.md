@@ -10,7 +10,7 @@ No frontend. No database. Just smart contract and pure game logic on Ethereum-co
 - ✅ 8x8 checkers board
 - ✅ Turn-based logic
 - ✅ Player matching
-- ✅ Basic move validation
+- ✅ Basic move validation 
 - 🚧 Coming soon:
   - King logic (damka 👑)
   - Jump captures
